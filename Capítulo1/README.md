@@ -1,4 +1,4 @@
-# Carga y transformación de datos en Power Query
+# Práctica 1. Carga y transformación de datos en Power Query
 Dentro de esta práctica nos conectaremos a una base de datos SQL Server que contiene diferentes tablas que buscamos transformar para posteriormente cargarlas. Iniciaremos conectándonos a diferentes fuentes de datos, posteriormente, visualizaremos los datos de origen utilizando Power Query y haremos uso de las características de generación de perfiles de datos en Power Query para asegurarnos de que los datos estén listos para su transformación y análisis.
 
 ## Objetivo de la práctica:
